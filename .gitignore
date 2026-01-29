@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Test results
+test-results/
+playwright-report/
+
+# Accessibility reports
+artifacts/
+custom-a11y-reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+
+# Cache
+.cache/
+.eslintcache
+.stylelintcache
+
+# Temporary files
+*.tmp
+*.temp
